@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aathil0352
 - 👀 I’m interested in doing microsoft projects
-- 🌱 I’m currently learning komputer science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me email me on : mohamedaathil0352@gmail.com
 
